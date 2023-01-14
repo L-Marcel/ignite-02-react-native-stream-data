@@ -1,0 +1,8 @@
+{
+  "translatedDescription": "Um aplicativo criado para treinar login social com a Twitch.",
+  "technologies": [
+    "React Native",
+    "Expo",
+    "Eslint"
+  ]
+}
